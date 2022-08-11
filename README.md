@@ -1,3 +1,3 @@
 # odin-recipes
 
-Simple Html Page for the Odin Project: "Recipes"
+Simple HTML Website for the Odin Project: "Recipes"
